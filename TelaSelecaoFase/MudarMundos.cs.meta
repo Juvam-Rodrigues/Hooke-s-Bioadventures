@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b1525a6f9d66b594bb72c27b1e003ddb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pnMundo1: {instanceID: 0}
+  - pnMundo2: {instanceID: 0}
+  - pnMundo3: {instanceID: 0}
+  - nomeMundo1: {instanceID: 0}
+  - nomeMundo2: {instanceID: 0}
+  - nomeMundo3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
